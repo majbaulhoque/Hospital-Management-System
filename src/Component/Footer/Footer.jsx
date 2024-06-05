@@ -5,7 +5,7 @@ const Footer = () => {
             <footer className="footer max-w-7xl mx-auto p-10">
                 <nav>
                     <h6 className="footer-title">OrionSAAS</h6>
-                    <p>Bootstrapping accelerator termsheet partnership non-disclosure <br /> agreement. Research & development stealth user experience direct <br /> mailing crowdfunding niche market gamification crowdsource <br /> facebook iPhone value proposition seed money.</p>
+                    <p className='text-justify lg:w-[460px]'>Bootstrapping accelerator termsheet partnership non-disclosure agreement. Research & development stealth user experience direct mailing crowdfunding niche market gamification crowdsource facebook iPhone value proposition seed money.</p>
                     <div className='flex items-center '>
                     <a className="link link-hover mr-3">Follow us</a>
                     <img className='h-3' src={social} alt="" />
