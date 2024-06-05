@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "img": "https://i.ibb.co/9gPkrpM/Icon.png",
+      "title": "Cloud Server",
+      "description": "Launch party pitch technology user experience innovator buzz stealth MVP business model."
+    },
+    {
+      "id": 2,
+      "img": "https://i.ibb.co/vsXgqSK/Icon-1.png",
+      "title": "Data Protection",
+      "description": "Launch party pitch technology user experience innovator buzz stealth MVP business model."
+    },
+    {
+      "id": 3,
+      "img": "https://i.ibb.co/P9mXCFR/Icon-2.png",
+      "title": "Networking",
+      "description": "Launch party pitch technology user experience innovator buzz stealth MVP business model."
+    },
+    {
+      "id": 4,
+      "img": "https://i.ibb.co/FbjQH7j/Icon-3.png",
+      "title": "Automated Processing",
+      "description": "Launch party pitch technology user experience innovator buzz stealth MVP business model."
+    },
+    {
+      "id": 5,
+      "img": "https://i.ibb.co/0DwV8FT/Icon-4.png",
+      "title": "Effcient Threading",
+      "description": "Launch party pitch technology user experience innovator buzz stealth MVP business model."
+    },
+    {
+      "id": 6,
+      "img": "https://i.ibb.co/dMtgwKb/Icon-5.png",
+      "title": "Seamless Processing",
+      "description": "Launch party pitch technology user experience innovator buzz stealth MVP business model."
+    }
+  ]  
